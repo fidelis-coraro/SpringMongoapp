@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://fideliscoraro:ttuReoJy67uSf9KT@cluster0.srgi77d.mongodb.net/jfsspringmongo
